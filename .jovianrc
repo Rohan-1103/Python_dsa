@@ -1,0 +1,13 @@
+{
+  "notebooks": {
+    "01Linear&BinarySearch.ipynb": {
+      "slug": "71227168de314367bac2c4dcf8b48b7b"
+    },
+    "02_Binary_Search_Trees.ipynb": {
+      "slug": "1e1b755790d54c3d8fdeba56722a13c7"
+    },
+    "03Sorting_algorithms.ipynb": {
+      "slug": "e8c63fda48a04751b710aa90312a59a9"
+    }
+  }
+}
